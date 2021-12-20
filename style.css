@@ -1,1 +1,16 @@
+div {
+    margin-bottom: 10px;
+}
 
+input {
+    width: 99%;
+}
+
+textarea {
+    width: 99%;
+    height: 500px;
+}
+
+label {
+    font-weight: 700;
+}
